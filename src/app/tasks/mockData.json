@@ -1,0 +1,42 @@
+[
+    {
+       "id":"65e0f30xabcde9fb61adu2323",
+       "title":"ADU-520",
+       "description":"Documentar el desarrollo de la tarea ADU-14S",
+       "type": "FUNCIONAL",
+       "status": true,
+       "priority":"Alta",
+       "createdAt":"2024-01-20T17:55:23.653+00:00",
+       "updatedAt":"2024-02-27T17:55:23.653+00:00"
+    },
+    {
+       "id":"65d0f30xedbc9fb61aec1918",
+       "title":"ADU-140",
+       "description":"Módulo de integración con Repositorios como Github y Gitlab",
+       "type": "TECNICO",
+       "status": false,
+       "priority":"Media",
+       "createdAt":"2024-01-07T17:55:23.653+00:00",
+       "updatedAt":"2024-02-27T17:55:23.653+00:00"
+    },
+    {
+       "id":"65d0f30xabcde9fb61aec1914",
+       "title":"AVO-150",
+       "description":"Que traiga todos los detalles de las pull requests",
+       "type": "FUNCIONAL",
+       "status": true,
+       "priority":"Baja",
+       "createdAt":"2024-03-22T17:55:23.653+00:00",
+       "updatedAt":"2024-02-27T17:55:23.653+00:00"
+    },
+    {
+        "id":"65d0f30xabcde9fb61aec3944",
+        "title":"SPS-917",
+        "description":"Atender los tickets de NAZAR",
+        "type": "TECNICO",
+        "status": false,
+        "priority":"Media",
+        "createdAt":"2024-02-27T17:55:23.653+00:00",
+        "updatedAt":"2024-02-27T17:55:23.653+00:00"
+     }
+ ]
